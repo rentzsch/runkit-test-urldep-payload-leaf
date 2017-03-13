@@ -1,6 +1,6 @@
 {
   "name": "runkit-test-urldep-payload-leaf",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "runkit-test-urldep-payload-leaf.js",
   "license": "MIT",
   "dependencies": {
