@@ -4,10 +4,6 @@
   "main": "runkit-test-urldep-payload-leaf.js",
   "license": "MIT",
   "dependencies": {
-    "lodash.isnull": "2.0.0",
-    "runkit-test-urldep-payload-leaf-bundled-dep": "file:runkit-test-urldep-payload-leaf-bundled-dep"
-  },
-  "bundledDependencies": [
-    "runkit-test-urldep-payload-leaf-bundled-dep"
-  ]
+    "lodash.isnull": "2.0.0"
+  }
 }
