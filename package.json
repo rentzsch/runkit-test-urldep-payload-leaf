@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "lodash.isnull": "2.0.0"
-  }
+  },
+  "bundledDependencies": [
+    "lodash.isnull"
+  ]
 }
