@@ -7,7 +7,8 @@ assert.deepStrictEqual(lodashIsNullPackageVersion, "2.0.0");
 
 module.exports = {
   name: "runkit-test-urldep-payload-leaf",
-  version: thisPackageVersion
+  version: thisPackageVersion,
+  hasPretendFix: true
 };
 
 if (!module.parent) {
